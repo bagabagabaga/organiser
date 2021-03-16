@@ -1,3 +1,3 @@
-# organiser that position people in a calendar
-me
+# Calendar organiser
 
+This program organise people inside a calendar
